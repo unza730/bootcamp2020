@@ -31,7 +31,7 @@ jobs:
     # Runs a set of commands using the runners shell
     - name: Installinh surge
       run: npm install --global surge
-      -name: deploying using surge
+    - name: deploying using surge
     - name: Installing surge
       run: npm install --global surge
     - name: deploying using surge
